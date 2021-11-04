@@ -1,3 +1,6 @@
+## Unzipped Data Folders
+nlcd_2016_mn_data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
