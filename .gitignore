@@ -2,6 +2,9 @@
 nlcd_2016_MN_data/
 nlcd_2016_MN_data/*
 
+## Zipped Folders
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
