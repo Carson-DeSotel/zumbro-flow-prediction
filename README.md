@@ -29,7 +29,7 @@ or by downloading the .zip file from the [GitHub repo](https://github.com/Carson
 
 A large part of the data used in this project is handled through .csv files that have been pre-processed and are parts of the GitHub repo. Data required for ```watershed-delineation-land-use.ipynb``` is too large to be handled through GitHub, so extra downloading must be done. 
 
-Please download further required data from [this Google Drive folder]() and export the files to the ```data/``` folder in your local repository.
+Please download further required data from [this Google Drive folder](https://drive.google.com/drive/folders/1cq252tFyw-nanUq_Bzm3mbWvqUURr8qt?usp=sharing) and export the files to the ```data/``` folder in your local repository.
 
 ## Contribution
 Ideally, this project should remain closed to change. Its goal is to be a proof of concept for a potential ML model that can be applied to streams. 
