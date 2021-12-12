@@ -1,6 +1,8 @@
 # zumbro-flow-prediction
 
-zumbro-flow-prediction is a series of Jupyter Notebooks that import and process a variety of environmental data to create a machine learning model that predicts streamflow based on 10 years of streamflow data for the South Fork Zumbro River near Rochester, MN.
+zumbro-flow-prediction is a series of Jupyter Notebooks that import and process a variety of environmental data to create a machine learning model that predicts streamflow based on 10 years of streamflow data for the South Fork Zumbro River near Rochester, MN. 
+
+This code is only accurate for the South Fork Zumbro River near Rochester, MN as the outside data is all based near that river.
 
 ## Authors & Contact Information
 
