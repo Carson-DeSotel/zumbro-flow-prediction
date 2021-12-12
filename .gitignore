@@ -1,6 +1,7 @@
-## Unzipped Data Folders
-nlcd_2016_MN_data/
-nlcd_2016_MN_data/*
+## TIF files
+data/*.tif 
+data/*.xlsx
+*.tif
 
 ## Zipped Folders
 *.zip
